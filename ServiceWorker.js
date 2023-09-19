@@ -1,9 +1,9 @@
 const cacheName = "NewMediaCenter-合成新媒体-1.0";
 const contentToCache = [
     "Build/build.loader.js",
-    "Build/3c70ae2897b41ace54720c8be43ae4a9.js",
-    "Build/7f51b1f251e4524da2d7ccfd885f3df3.data",
-    "Build/cae3789ef1b42ff1632016f957f470a7.wasm",
+    "Build/15125cb4636261da1b06655f320d0768.js",
+    "Build/dd8b10e76d6f3132e8b15c38bc704704.data",
+    "Build/af68394d650a9999e204c314ee067c74.wasm",
     "TemplateData/style.css"
 
 ];
